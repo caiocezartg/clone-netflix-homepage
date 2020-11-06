@@ -12,3 +12,7 @@ Sinta-se a vontade para explorar o projeto! :smile:
 
 
 
+! [alt text] (https://github.com/caiocezartg/clone-netflix-homepage/blob/main/img/captura-netflix.PNG)
+
+
+
