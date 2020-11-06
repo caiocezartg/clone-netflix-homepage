@@ -10,9 +10,7 @@ Ao decorrer do tempo vou usar esse projeto para fins de estudo, desenvolvendo-o 
 
 Sinta-se a vontade para explorar o projeto! :smile:
 
-
-
-! [alt text](/relative/path/to/img.jpg?raw=true "Captura de Tela")
+![alt text](img/captura-netflix.PNG)
 
 
 
