@@ -10,6 +10,8 @@ Ao decorrer do tempo vou usar esse projeto para fins de estudo, desenvolvendo-o 
 
 Sinta-se a vontade para explorar o projeto! :smile:
 
+Adicionando uma nova descrição.
+
 ![alt text](img/captura-netflix.PNG)
 
 
